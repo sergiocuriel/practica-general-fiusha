@@ -10,10 +10,6 @@ git add .
 git commit 
 
 
-
-
-
-
 GUIDO:
 pwd
 cd
@@ -26,9 +22,13 @@ git add .
 git commit
 git pull
 git push origin master
-MARCO:
 
-MANUEL:
+MARCO:
+git clone
+git log
+git add .
+git commit
+git pull
 
 SERGIO: 
 git https://github.com/sergiocuriel/practica-general-fiusha.git
