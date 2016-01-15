@@ -2,7 +2,17 @@
 SELENE:
 
 GUIDO:
-
+pwd
+cd
+mkdir
+touch
+git status
+git log
+git clone
+git add .
+git commit
+git pull
+git push origin master
 MARCO:
 
 MANUEL:
