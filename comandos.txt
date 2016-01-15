@@ -1,6 +1,19 @@
 **************************COMANDOS GIT******************************
 SELENE:
 
+ls
+pwd
+git clone https://github.com/sergiocuriel/practica-general-fiusha.git
+cd 
+cat comandos.txt
+git add .
+git commit 
+
+
+
+
+
+
 GUIDO:
 pwd
 cd
