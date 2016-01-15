@@ -14,6 +14,10 @@ git notepad comandos.txt
 git add .
 git commit -m "Se agrego el archivo del historial de comandos"
 git push
+git branch SergioCuriel
+git checkout SergioCuriel
+git checkout master
+git merge SergioCuriel
 
 Antonio:
 
