@@ -28,6 +28,8 @@ git branch SergioCuriel
 git checkout SergioCuriel
 git checkout master
 git merge SergioCuriel
+git log
+git log --oneline
 
 Antonio:
 
