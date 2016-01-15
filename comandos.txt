@@ -1,0 +1,16 @@
+**************************COMANDOS GIT******************************
+SELENE:
+
+GUIDO:
+
+MARCO:
+
+MANUEL:
+
+SERGIO: 
+git https://github.com/sergiocuriel/practica-general-fiusha.git
+git touch comandos.txt
+git notepad comandos.txt
+git add .
+git commit -m "Se agrego el archivo del historial de comandos"
+git push
