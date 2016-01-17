@@ -1,13 +1,33 @@
 **************************COMANDOS GIT******************************
 SELENE:
 
-ls
-pwd
-git clone https://github.com/sergiocuriel/practica-general-fiusha.git
-cd 
-cat comandos.txt
-git add .
-git commit 
+  292  git clone https://github.com/sergiocuriel/practica-general-fiusha.git
+  297  git clone https://github.com/sergiocuriel/practica-general-fiusha.git
+  306  git add .
+  307  git commit -m "Subir Comandos"
+  308  git status
+  309  git push
+  310  git push
+  312  git add .
+  315  git add .
+  316  git status
+  317  git commit -m "Home agregado"
+  318  git push
+  319  git pull
+  320  git push
+  326  git commit -m "Se corrige title"
+  327  git pull
+  328  git commit -m "Se corrige title"
+  329  git push
+  331  git status
+  332  git pull
+  333  git commit -m "Se corrige title"
+  334  git add .
+  335  git status
+  336  git push
+  337  git commit -m "Se corrige title"
+  338  git push
+
 
 
 GUIDO:
