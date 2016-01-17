@@ -31,17 +31,27 @@ SELENE:
 
 
 GUIDO:
-pwd
-cd
-mkdir
-touch
-git status
-git log
-git clone
-git add .
-git commit
-git pull
-git push origin master
+cd gitdir
+   92  git init
+   93  git clone
+   94  git clone https://github.com/sergiocuriel/practica-general-fiusha
+   97  git status
+   98  git add .
+   99  git commit -m "agregue adroidStudio.html"
+  100  git push origin master
+  101  git pull
+  102  git status
+  103  git add .
+  104  git commit -m "Agregue mis comandos"
+  105  git pull
+  106  git push origin master
+  107  git add .
+  108  git commit -m "Cambios a androidStudio.html"
+  109  git push origin master
+  110  git status
+  111  git log
+  115  cd gitdir
+
 
 MARCO:
 git clone
